@@ -2,7 +2,7 @@
 {
   "name": "SmartButton",
   "keywords":"button,easy",
-  "description": "a simple librairie for button action",
+  "description":"a simple librairie for button action",
   "repository":
   {
     "type": "git",
