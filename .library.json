@@ -1,19 +1,7 @@
-
+"name": "SmartButton",
+"version": "1.0.0",
+"repository":
 {
-  "name": "SmartButton",
-  "keywords":"button,easy",
-  "description":"a simple librairie for button action",
-  "repository":
-  {
     "type": "git",
-    "url": "https://github.com/Pseud3mys/SmartButton"
-  },
-  "authors":
-  {
-      "name": "Alexandre Hersent",
-      "email": "Alexandre.hersent@gmail.com"
-  },
-  "version": "1.0.0",
-  "frameworks": "arduino",
-  "platforms": "*"
+    "url": "https://github.com/Pseud3mys/SmartButton.git"
 }
