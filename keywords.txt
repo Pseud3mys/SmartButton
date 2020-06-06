@@ -1,0 +1,7 @@
+Button	KEYWORD1
+check	KEYWORD2
+setCooldown	KEYWORD2
+click	KEYWORD2
+doubleClick	KEYWORD2
+longClick	KEYWORD2
+veryLongClick	KEYWORD2
