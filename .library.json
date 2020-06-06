@@ -3,9 +3,7 @@
   "keywords":"button, easy",
   "description":"a simple librairie for button action",
   "examples": [
-    {
     "examples/SmartButton.cpp"
-    }
   ],
   "repository":
   {
