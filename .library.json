@@ -2,21 +2,19 @@
   "name": "SmartButton",
   "keywords":"button, easy",
   "description":"a simple librairie for button action",
-  "examples": [
+  "examples": {
     "example/SmartButton Exemple.cpp"
-  ],
+    },
   "repository":
   {
     "type": "git",
     "url": "https://github.com/Pseud3mys/SmartButton"
   },
   "authors":
-  [
     {
       "name": "Alexandre H",
       "email": "Alexandre.hersent@gmail.com"
-    }
-  ],
+    },
   "version": "1.0.0",
   "frameworks": "arduino",
   "platforms": "*"
