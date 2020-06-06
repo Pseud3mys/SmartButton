@@ -2,6 +2,9 @@
   "name": "SmartButton",
   "keywords":"button, easy",
   "description":"a simple librairie for button action",
+  "examples": [
+    "example/SmartButton Exemple.cpp"
+  ],
   "repository":
   {
     "type": "git",
