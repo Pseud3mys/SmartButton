@@ -1,7 +1,7 @@
 {
   "name": "SmartButton",
-  "keywords":"button, easy",
-  "description":"a simple librairie for button action",
+  "keywords":"button, easy, input, pushbutton",
+  "description":"a very easy to use librairie for button actions (click, double clicks, long ckick)",
   "examples": [
     "examples/Button example/Button example.cpp"
   ],
