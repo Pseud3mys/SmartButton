@@ -1,12 +1,13 @@
-/*  exemple for the library smart button
-to simply detect button(q) actions
+/*  exemple for the library smart button:
+this library allow to simply detect button(s) actions.
+this exemple show the action for one button but you can add other button and combine it.
 */
 
 #include <arduino.h>
 // include the library
 #include <SmartButton.h>
 
-//create an instance of the class
+//create an instance of the class on pin 10
 Button MyButton = Button(10);
 
 void setup() {
